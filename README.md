@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Sajid</h1>
-<h3 align="center">Full Stack Web Developer.</h3>
+<h3 align="center">Full Stack Software Developer.</h3>
 
 - 🔭 I’m currently working on **Android Development**
 
@@ -13,10 +13,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bilal-sajid-5b1218219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal sajid" height="30" width="40" /></a>
 </p>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalsajid173&show_icons=true&locale=en&layout=compact" alt="bilalsajid173" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalsajid173&show_icons=true&locale=en&layout=compact" alt="bilalsajid173" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalsajid173&show_icons=true&locale=en" alt="bilalsajid173" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalsajid173&show_icons=true&locale=en" alt="bilalsajid173" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsajid173&" alt="bilalsajid173" /></p>
 

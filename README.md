@@ -1,0 +1,22 @@
+<h1 align="center">Hi 👋, I'm Bilal Sajid</h1>
+<h3 align="center">Full Stack Web Developer.</h3>
+
+- 🔭 I’m currently working on **Android Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/BilalSajid173](https://github.com/BilalSajid173)
+
+- 💬 Ask me about **React, Node.**
+
+- 📫 How to reach me **https://portfolio-react-teal-eta.vercel.app/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bilal sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal sajid" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalsajid173&show_icons=true&locale=en&layout=compact" alt="bilalsajid173" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalsajid173&show_icons=true&locale=en" alt="bilalsajid173" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsajid173&" alt="bilalsajid173" /></p>
+

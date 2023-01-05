@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Sajid</h1>
 <h3 align="center">Full Stack Software Developer.</h3>
 
-- 🔭 I’m currently learning **Android Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/BilalSajid173](https://github.com/BilalSajid173)
 
 - 💬 Ask me about **React, Node.**
